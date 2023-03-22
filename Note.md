@@ -14,7 +14,7 @@ In regression problems, the goal is to predict a continuous numerical value for 
 
 The main difference between classification and regression is the type of output that the model produces. Classification models produce discrete labels or categories, while regression models produce continuous numerical values. The choice of which type of problem to use depends on the nature of the data and the specific goal of the prediction task.
 
-.
+
 └── Machine Learning Algorithms
     ├── Supervised Learning Algorithms
     │   ├── Regression
@@ -22,3 +22,6 @@ The main difference between classification and regression is the type of output 
     └── Unsupervised Learning Algorithms
         ├── Clustering
         └── Association
+        
+        
+  
